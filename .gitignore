@@ -1,0 +1,11 @@
+# Ignore all
+/*
+
+# Whitelist
+!/.gitignore
+
+# Emacs
+!/.emacs
+!/.emacs.d
+/.emacs.d/**
+!/.emacs.d/init.el
